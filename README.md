@@ -1,4 +1,4 @@
 # odin-recipes
-odin lessons
+Odin lessons repo
 
-will be creating a recipe website
+Will be creating a recipe website
